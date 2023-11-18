@@ -1,0 +1,12 @@
+.vscode/
+
+.git/
+
+output/
+
+toCommit/
+
+*.exe
+
+*.DS_Store*
+
